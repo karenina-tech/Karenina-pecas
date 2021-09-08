@@ -5,7 +5,7 @@
 
 ## 🙋 About Me
 
-- 🌱 I’m currently learning **React and TailwindCSS.**
+- 🌱 I’m currently learning **React and TailwindCSS.** MySQL, Node.js, and Express are on my radar :satellite:
 
 - 📫 How to reach me: **arq.karengallegos89@gmail.com**
 

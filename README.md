@@ -1,9 +1,8 @@
 
 
-<h1 align="center">Hi , I'm Karenina</h1>
-<h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
-## 🙋 About Me
+
+## 🙋Hey, I am Karenina!
 
 - 🌱 I’m currently learning **React and TailwindCSS.** MySQL, Node.js, and Express are on my radar :satellite:
 
